@@ -1,0 +1,22 @@
+{
+  "name": "dev-ed-node.js-tutorial-for-beginners",
+  "version": "1.0.0",
+  "description": "coding",
+  "main": "app.js",
+  "scripts": {
+    "develop": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangja/dev-ed-node.js-tutorial-for-beginners.git"
+  },
+  "author": "Jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangja/dev-ed-node.js-tutorial-for-beginners/issues"
+  },
+  "homepage": "https://github.com/kangja/dev-ed-node.js-tutorial-for-beginners#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
